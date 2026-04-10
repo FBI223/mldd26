@@ -1,0 +1,14 @@
+numpy
+pandas
+torch
+tqdm
+ipython
+matplotlib
+sklearn
+rdkit
+PyTDC
+setuptools<70
+torch-geometric
+xgboost
+ipywidgets
+
