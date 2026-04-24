@@ -11,4 +11,8 @@ setuptools<70
 torch-geometric
 xgboost
 ipywidgets
+py3Dmol
+prolif
+openbabel
+smina
 
